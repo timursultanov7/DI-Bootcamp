@@ -164,7 +164,7 @@ const rentalCarCost = function () {
     console.log(`The total price for the rent is ${totalPrice}$`);
     return totalPrice;
   } else {
-    +prompt("Try Again! For 1how many days you want a car?");
+    +prompt("Try Again! For how many days you want a car?");
   }
 };
 
