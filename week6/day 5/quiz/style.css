@@ -1,0 +1,12 @@
+#btn {
+  width: 10rem;
+  height: 5rem;
+}
+
+#container {
+  width: 100vw;
+}
+
+.newP {
+  background-color: red;
+}
